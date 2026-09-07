@@ -1,5 +1,5 @@
 # AI Use Log
-- Tools: Predominately used ChatGPT-5.6 Sol with some embedded Geminini from GoogleColab.
+- Tool/model & version: Predominately used ChatGPT-5.6 Sol with some embedded Geminini from GoogleColab.
   
 - What I asked for: Chiefly asked for help explaining concepts and instructions as well as debugging my code when the outputs failed or did not generated expected results. Additionally, some guided code constructions was utilized and on a few rare occasions where I was stymied I had ChatGPT generate the code which would yield correct results then asked to to break down and retroactively explain this to me. Grammatical tweaks in written sections for clarity and flow. 
   
