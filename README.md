@@ -1,2 +1,2 @@
 # beginning-bioinformatics
-Beginning bioinformatics course code
+R. Reed McClure + 1002306694 + BIOL5340-001
